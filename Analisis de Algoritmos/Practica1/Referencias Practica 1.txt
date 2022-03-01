@@ -1,0 +1,3 @@
+http://conclase.net/c/edd/cap7
+https://parzibyte.me/blog/2019/12/05/arbol-binario-c-insercion-recorrido/
+http://codigofuentecpp.blogspot.com/2013/10/arbol-binario-de-busqueda_25.html
