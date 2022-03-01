@@ -1,0 +1,3 @@
+https://www.baulphp.com/sumar-con-javascript-de-manera-automatica/
+
+https://gojs.net/latest/samples/faultTree.html
